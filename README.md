@@ -1,5 +1,9 @@
 # FastAPI Employee CRUD API
 
+
+#URL FOR PREVIEW - https://employee-manaagement-api-7gkb.onrender.com/docs
+
+
 A beginner-friendly CRUD API built using FastAPI, Pydantic, SQLAlchemy, and SQLite.
 
 This project demonstrates:
