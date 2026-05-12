@@ -9,7 +9,7 @@ This project demonstrates:
 - SQLite database connectivity
 - CRUD operations (Create, Read, Update, Delete)
 - Dependency Injection with FastAPI
-- 
+
 ## Tech Stack
 
 - FastAPI
